@@ -1,2 +1,0 @@
-# Capstone-Project
-Senior Project
